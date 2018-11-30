@@ -8,7 +8,7 @@
    Select [Yes to All] - A
 4. Generate a Personal Access Token at https://account.visualstudio.com/_details/security/tokens
    Select 'All Scopes' option
-5. Update VstsUwpPackageInstaller.exe.config with the generated/copied Token
+5. Update dropxstaller.exe.config with the generated/copied Token
 6. Double-click dropxstaller.exe
 
 ### Usage: By default, the application downloads the latest Drop package and installs it
